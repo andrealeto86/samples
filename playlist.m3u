@@ -1,215 +1,215 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Italy",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Italy",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Italy",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Italy",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Italy",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Italy",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="France",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="France",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="France",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="France",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="France",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="France",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Germany",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Germany",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Germany",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Germany",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Germany",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Germany",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Spain",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Spain",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Spain",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Spain",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Spain",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Spain",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Portugal",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Portugal",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Portugal",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Portugal",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Portugal",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Portugal",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Netherlands",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Netherlands",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Netherlands",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Netherlands",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Netherlands",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Netherlands",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Belgium",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Belgium",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Belgium",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Belgium",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Belgium",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Belgium",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Austria",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Austria",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Austria",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Austria",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Austria",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Austria",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Switzerland",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Switzerland",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Switzerland",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Switzerland",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Switzerland",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Switzerland",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Sweden",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Sweden",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Sweden",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Sweden",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Sweden",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Sweden",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Norway",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Norway",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Norway",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Norway",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Norway",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Norway",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Denmark",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Denmark",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Denmark",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Denmark",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Denmark",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Denmark",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Finland",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Finland",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Finland",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Finland",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Finland",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Finland",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Greece",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Greece",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Greece",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Greece",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Greece",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Greece",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Poland",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Poland",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Poland",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Poland",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Poland",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Poland",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Czech Republic",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Czech Republic",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Czech Republic",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Czech Republic",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Czech Republic",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Czech Republic",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Hungary",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Hungary",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Hungary",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Hungary",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Hungary",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Hungary",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Romania",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Romania",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Romania",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Romania",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Romania",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Romania",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Bulgaria",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Bulgaria",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Bulgaria",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Bulgaria",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Bulgaria",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Bulgaria",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Slovakia",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Slovakia",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Slovakia",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Slovakia",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Slovakia",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Slovakia",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Slovenia",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Slovenia",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Slovenia",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Slovenia",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Slovenia",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Slovenia",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Croatia",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Croatia",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Croatia",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Croatia",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Croatia",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Croatia",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Ireland",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Ireland",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Ireland",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Ireland",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Ireland",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Ireland",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="United Kingdom",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="United Kingdom",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="United Kingdom",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="United Kingdom",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="United Kingdom",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="United Kingdom",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Iceland",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Iceland",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Iceland",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Iceland",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Iceland",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Iceland",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Luxembourg",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Luxembourg",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Luxembourg",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Luxembourg",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Luxembourg",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Luxembourg",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Malta",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Malta",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Malta",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Malta",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Malta",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Malta",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Latvia",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Latvia",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Latvia",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Latvia",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Latvia",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Latvia",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Lithuania",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Lithuania",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Lithuania",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Lithuania",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Lithuania",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Lithuania",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Estonia",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Estonia",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Estonia",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Estonia",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Estonia",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Estonia",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Cyprus",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placehold.co/300x300/red" group-title="Cyprus",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Cyprus",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placehold.co/300x300/green" group-title="Cyprus",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Cyprus",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placehold.co/300x300/blue" group-title="Cyprus",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placebear.com/g/200/200" group-title="United States",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placebear.com/g/200/200" group-title="United States",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placebear.com/g/200/200" group-title="United States",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placebear.com/g/200/200" group-title="United States",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placebear.com/g/200/200" group-title="United States",Channel 3
-https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
-
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placebear.com/g/200/200" group-title="Brazil",Channel 1
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placebear.com/g/200/200" group-title="Brazil",Channel 2
-https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placebear.com/g/200/200" group-title="Brazil",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placebear.com/g/200/200" group-title="United States",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
 
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placebear.com/g/200/200" group-title="Japan",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placebear.com/g/200/200" group-title="Brazil",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placebear.com/g/200/200" group-title="Japan",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placebear.com/g/200/200" group-title="Brazil",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placebear.com/g/200/200" group-title="Japan",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placebear.com/g/200/200" group-title="Brazil",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
 
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://placebear.com/g/200/200" group-title="Australia",Channel 1
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placebear.com/g/200/200" group-title="Japan",Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://placebear.com/g/200/200" group-title="Australia",Channel 2
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placebear.com/g/200/200" group-title="Japan",Channel 2
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://placebear.com/g/200/200" group-title="Australia",Channel 3
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placebear.com/g/200/200" group-title="Japan",Channel 3
+https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
+
+#EXTINF: tvg-name="Channel 1" tvg-logo="https://placebear.com/g/200/200" group-title="Australia",Channel 1
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF: tvg-name="Channel 2" tvg-logo="https://placebear.com/g/200/200" group-title="Australia",Channel 2
+https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co
+#EXTINF: tvg-name="Channel 3" tvg-logo="https://placebear.com/g/200/200" group-title="Australia",Channel 3
 https://test-streams.mux.dev/tos_ismc/main.m3u8?ref=developerinsider.co
